@@ -1,0 +1,9 @@
+<resources>
+    <string name="plus">plus</string>
+    <string name="subs">subtract</string>
+    <string name="multiply">multiply</string>
+    <string name="divide">Divide </string>
+    <string name="hint1">Enter your First number </string>
+    <string name="hint2">Enter your second number </string>
+    <string name="heading">CALCULATER</string>
+</resources>
